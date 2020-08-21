@@ -1,0 +1,11 @@
+/Users/alanswenson/projects/webassembly_rs/hello-wasm/target/release/deps/proc_macro2-cc82b94b0970227c.rmeta: /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/lib.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/parse.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/detection.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/fallback.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/wrapper.rs
+
+/Users/alanswenson/projects/webassembly_rs/hello-wasm/target/release/deps/libproc_macro2-cc82b94b0970227c.rlib: /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/lib.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/parse.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/detection.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/fallback.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/wrapper.rs
+
+/Users/alanswenson/projects/webassembly_rs/hello-wasm/target/release/deps/proc_macro2-cc82b94b0970227c.d: /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/lib.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/parse.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/detection.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/fallback.rs /Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/wrapper.rs
+
+/Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/lib.rs:
+/Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/parse.rs:
+/Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/detection.rs:
+/Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/fallback.rs:
+/Users/alanswenson/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.19/src/wrapper.rs:
